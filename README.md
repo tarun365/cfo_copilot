@@ -1,4 +1,4 @@
-# cfo_copilot
+# Mini CFO Copilot (Streamlit)
 
 An end-to-end **CFO Copilot** that answers simple finance questions from structured CSVs and returns **text + chart** inline. Optional **Export PDF** for 1–2 key pages.
 
@@ -70,3 +70,4 @@ pytest -v
 
 ## Notes
 - The app is intentionally small and transparent—no external LLM calls. The “agent” is a tiny rule‑based intent classifier + planner.
+
