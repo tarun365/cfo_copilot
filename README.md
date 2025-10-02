@@ -1,6 +1,6 @@
 # Mini CFO Copilot (Streamlit)
 
-An end-to-end **CFO Copilot** that answers simple finance questions from structured CSVs and returns **text + chart** inline. Optional **Export PDF** for 1–2 key pages.
+An end-to-end **CFO Copilot** that answers simple finance questions from structured CSVs and returns **text + chart** inline. 
 
 ## Features
 - Chat box → intent classification → run data functions → return **text + Plotly chart**.
